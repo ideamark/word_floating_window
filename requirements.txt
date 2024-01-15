@@ -1,0 +1,5 @@
+Pyinstaller
+python-docx
+pandas
+numpy
+openpyxl
